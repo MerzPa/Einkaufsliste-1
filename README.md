@@ -15,6 +15,9 @@ Karlos
 Beuren an der Aach
 * Familienstand
 Ledig
+
+> Wenn es nicht richtig ist, dann ist es nicht richtig.
+	- *Anon*
 	
 Um weitere **sensible** Daten von Karlos von Pfuhlen zu erhalten, gehen sie bitte auf folgende Internetseite: 
-[Klick mich](http:://www.facebook.com/login.php)
+[Klick mich](http:://www.facebook.com/login.php"Auf eigene Gefahr!")

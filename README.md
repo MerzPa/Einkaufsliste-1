@@ -18,5 +18,5 @@ Um weitere **sensible** Daten von Karlos von Pfuhlen zu erhalten, gehen sie bitt
 
 ##Fotos
 
-![Karlos](bild.jpg)
+![Karlos](bild.jpeg)
 
